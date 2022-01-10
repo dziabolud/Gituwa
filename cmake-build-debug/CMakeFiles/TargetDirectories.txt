@@ -1,0 +1,3 @@
+C:/Users/badzi/CLionProjects/Gituwa/cmake-build-debug/CMakeFiles/Gituwa.dir
+C:/Users/badzi/CLionProjects/Gituwa/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/badzi/CLionProjects/Gituwa/cmake-build-debug/CMakeFiles/rebuild_cache.dir
